@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Prospera web",
+  "description": "CRUD",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,10 +11,10 @@
     "start": "node src/server.js"
   },
   "keywords": [
-    "Prospera",
-    "Trinity"
+    "Arman",
+    "CRUD"
   ],
-  "author": "Trinity team",
+  "author": "Arman",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.6",
